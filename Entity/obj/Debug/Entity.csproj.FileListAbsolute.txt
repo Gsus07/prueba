@@ -1,0 +1,24 @@
+C:\Users\UNICESAR-401\source\repos\UIBanco\Entity\bin\Debug\Entity.dll
+C:\Users\UNICESAR-401\source\repos\UIBanco\Entity\bin\Debug\Entity.pdb
+C:\Users\UNICESAR-401\source\repos\UIBanco\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\UNICESAR-401\source\repos\UIBanco\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\UNICESAR-401\source\repos\UIBanco\Entity\obj\Debug\Entity.dll
+C:\Users\UNICESAR-401\source\repos\UIBanco\Entity\obj\Debug\Entity.pdb
+F:\Cuarto Semestre\Programacion III\UIBanco\Entity\bin\Debug\Entity.dll
+F:\Cuarto Semestre\Programacion III\UIBanco\Entity\bin\Debug\Entity.pdb
+F:\Cuarto Semestre\Programacion III\UIBanco\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+F:\Cuarto Semestre\Programacion III\UIBanco\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+F:\Cuarto Semestre\Programacion III\UIBanco\Entity\obj\Debug\Entity.dll
+F:\Cuarto Semestre\Programacion III\UIBanco\Entity\obj\Debug\Entity.pdb
+E:\Programacion 3\UIBanco\Entity\bin\Debug\Entity.dll
+E:\Programacion 3\UIBanco\Entity\bin\Debug\Entity.pdb
+E:\Programacion 3\UIBanco\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+E:\Programacion 3\UIBanco\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\Programacion 3\UIBanco\Entity\obj\Debug\Entity.dll
+E:\Programacion 3\UIBanco\Entity\obj\Debug\Entity.pdb
+G:\Programacion 3\UIBanco\Entity\bin\Debug\Entity.dll
+G:\Programacion 3\UIBanco\Entity\bin\Debug\Entity.pdb
+G:\Programacion 3\UIBanco\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+G:\Programacion 3\UIBanco\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+G:\Programacion 3\UIBanco\Entity\obj\Debug\Entity.dll
+G:\Programacion 3\UIBanco\Entity\obj\Debug\Entity.pdb

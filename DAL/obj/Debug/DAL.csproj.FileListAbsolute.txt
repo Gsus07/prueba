@@ -1,0 +1,36 @@
+C:\Users\UNICESAR-401\source\repos\UIBanco\DAL\bin\Debug\DAL.dll
+C:\Users\UNICESAR-401\source\repos\UIBanco\DAL\bin\Debug\DAL.pdb
+C:\Users\UNICESAR-401\source\repos\UIBanco\DAL\bin\Debug\Entity.dll
+C:\Users\UNICESAR-401\source\repos\UIBanco\DAL\bin\Debug\Entity.pdb
+C:\Users\UNICESAR-401\source\repos\UIBanco\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\UNICESAR-401\source\repos\UIBanco\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\UNICESAR-401\source\repos\UIBanco\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\UNICESAR-401\source\repos\UIBanco\DAL\obj\Debug\DAL.dll
+C:\Users\UNICESAR-401\source\repos\UIBanco\DAL\obj\Debug\DAL.pdb
+F:\Cuarto Semestre\Programacion III\UIBanco\DAL\bin\Debug\DAL.dll
+F:\Cuarto Semestre\Programacion III\UIBanco\DAL\bin\Debug\DAL.pdb
+F:\Cuarto Semestre\Programacion III\UIBanco\DAL\bin\Debug\Entity.dll
+F:\Cuarto Semestre\Programacion III\UIBanco\DAL\bin\Debug\Entity.pdb
+F:\Cuarto Semestre\Programacion III\UIBanco\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\Cuarto Semestre\Programacion III\UIBanco\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Cuarto Semestre\Programacion III\UIBanco\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Cuarto Semestre\Programacion III\UIBanco\DAL\obj\Debug\DAL.dll
+F:\Cuarto Semestre\Programacion III\UIBanco\DAL\obj\Debug\DAL.pdb
+E:\Programacion 3\UIBanco\DAL\bin\Debug\DAL.dll
+E:\Programacion 3\UIBanco\DAL\bin\Debug\DAL.pdb
+E:\Programacion 3\UIBanco\DAL\bin\Debug\Entity.dll
+E:\Programacion 3\UIBanco\DAL\bin\Debug\Entity.pdb
+E:\Programacion 3\UIBanco\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\Programacion 3\UIBanco\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Programacion 3\UIBanco\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Programacion 3\UIBanco\DAL\obj\Debug\DAL.dll
+E:\Programacion 3\UIBanco\DAL\obj\Debug\DAL.pdb
+G:\Programacion 3\UIBanco\DAL\bin\Debug\DAL.dll
+G:\Programacion 3\UIBanco\DAL\bin\Debug\DAL.pdb
+G:\Programacion 3\UIBanco\DAL\bin\Debug\Entity.dll
+G:\Programacion 3\UIBanco\DAL\bin\Debug\Entity.pdb
+G:\Programacion 3\UIBanco\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+G:\Programacion 3\UIBanco\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\Programacion 3\UIBanco\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\Programacion 3\UIBanco\DAL\obj\Debug\DAL.dll
+G:\Programacion 3\UIBanco\DAL\obj\Debug\DAL.pdb

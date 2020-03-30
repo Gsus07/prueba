@@ -1,0 +1,44 @@
+C:\Users\UNICESAR-401\source\repos\UIBanco\BLL\bin\Debug\BLL.dll
+C:\Users\UNICESAR-401\source\repos\UIBanco\BLL\bin\Debug\BLL.pdb
+C:\Users\UNICESAR-401\source\repos\UIBanco\BLL\bin\Debug\DAL.dll
+C:\Users\UNICESAR-401\source\repos\UIBanco\BLL\bin\Debug\Entity.dll
+C:\Users\UNICESAR-401\source\repos\UIBanco\BLL\bin\Debug\DAL.pdb
+C:\Users\UNICESAR-401\source\repos\UIBanco\BLL\bin\Debug\Entity.pdb
+C:\Users\UNICESAR-401\source\repos\UIBanco\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\UNICESAR-401\source\repos\UIBanco\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\UNICESAR-401\source\repos\UIBanco\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\UNICESAR-401\source\repos\UIBanco\BLL\obj\Debug\BLL.dll
+C:\Users\UNICESAR-401\source\repos\UIBanco\BLL\obj\Debug\BLL.pdb
+F:\Cuarto Semestre\Programacion III\UIBanco\BLL\bin\Debug\BLL.dll
+F:\Cuarto Semestre\Programacion III\UIBanco\BLL\bin\Debug\BLL.pdb
+F:\Cuarto Semestre\Programacion III\UIBanco\BLL\bin\Debug\DAL.dll
+F:\Cuarto Semestre\Programacion III\UIBanco\BLL\bin\Debug\Entity.dll
+F:\Cuarto Semestre\Programacion III\UIBanco\BLL\bin\Debug\DAL.pdb
+F:\Cuarto Semestre\Programacion III\UIBanco\BLL\bin\Debug\Entity.pdb
+F:\Cuarto Semestre\Programacion III\UIBanco\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\Cuarto Semestre\Programacion III\UIBanco\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Cuarto Semestre\Programacion III\UIBanco\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Cuarto Semestre\Programacion III\UIBanco\BLL\obj\Debug\BLL.dll
+F:\Cuarto Semestre\Programacion III\UIBanco\BLL\obj\Debug\BLL.pdb
+E:\Programacion 3\UIBanco\BLL\bin\Debug\BLL.dll
+E:\Programacion 3\UIBanco\BLL\bin\Debug\BLL.pdb
+E:\Programacion 3\UIBanco\BLL\bin\Debug\DAL.dll
+E:\Programacion 3\UIBanco\BLL\bin\Debug\Entity.dll
+E:\Programacion 3\UIBanco\BLL\bin\Debug\DAL.pdb
+E:\Programacion 3\UIBanco\BLL\bin\Debug\Entity.pdb
+E:\Programacion 3\UIBanco\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\Programacion 3\UIBanco\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Programacion 3\UIBanco\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Programacion 3\UIBanco\BLL\obj\Debug\BLL.dll
+E:\Programacion 3\UIBanco\BLL\obj\Debug\BLL.pdb
+G:\Programacion 3\UIBanco\BLL\bin\Debug\BLL.dll
+G:\Programacion 3\UIBanco\BLL\bin\Debug\BLL.pdb
+G:\Programacion 3\UIBanco\BLL\bin\Debug\DAL.dll
+G:\Programacion 3\UIBanco\BLL\bin\Debug\Entity.dll
+G:\Programacion 3\UIBanco\BLL\bin\Debug\DAL.pdb
+G:\Programacion 3\UIBanco\BLL\bin\Debug\Entity.pdb
+G:\Programacion 3\UIBanco\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+G:\Programacion 3\UIBanco\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\Programacion 3\UIBanco\BLL\obj\Debug\BLL.csproj.CopyComplete
+G:\Programacion 3\UIBanco\BLL\obj\Debug\BLL.dll
+G:\Programacion 3\UIBanco\BLL\obj\Debug\BLL.pdb
